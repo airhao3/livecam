@@ -9,11 +9,12 @@ The web page in this repository supports running a model hosted on Roboflow by:
 2. Selecting from a predefined image to run inference.
 3. Uploading an image to run inference.
 
-## Project Screenshot
+## 项目截图
 
 ![Roboflow Homepage Demo screenshot showing inference on an image of a baseball scene](screenshot.png)
 
-## Use This Project
+## 使用介绍
+
 
 This repository is a template, which means you can directly copy this code into your own repository from GitHub.
 
